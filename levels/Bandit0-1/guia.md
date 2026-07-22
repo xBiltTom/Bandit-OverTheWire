@@ -28,9 +28,9 @@ Es preferible que lo resuelvas por tu cuenta, pero si quieres continuar desde un
 
 <details>
 
-<summary>Pass …</summary>
+<summary>Contraseña</summary>
 
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 
 </details>
 
