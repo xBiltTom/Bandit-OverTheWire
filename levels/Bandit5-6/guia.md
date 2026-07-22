@@ -85,7 +85,7 @@ Es preferible que resuelvas el reto por tu cuenta, pero si quieres continuar des
 
 <summary>Password</summary>
 
-HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
 
 </details>
 
